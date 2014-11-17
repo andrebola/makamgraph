@@ -1,0 +1,6 @@
+- The groups are labeled as group. We might need to make a special case if we hit one when we are crawling. (Example needed)
+- The nationality of the Arabic artists are ignored.
+- Anatolian Greeks and Greek from Greece are all considered Greek.
+- The data has a lot of Turkish performers. Note that they are mostly contemporary. It might be good check the era too.
+- Later it might be interesting to check other statistics:
+	the number of performances of works from non-Turkish composers?
