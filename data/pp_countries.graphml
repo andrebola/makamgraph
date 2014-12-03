@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Turkey" />
+    <node id="Israel" />
+    <node id="Group" />
+    <node id="USA" />
+    <node id="Kurdistan" />
+    <node id="France" />
+    <node id="Armenia" />
+    <node id="Greece" />
+    <edge source="Turkey" target="Turkey">
+      <data key="d0">69602</data>
+    </edge>
+    <edge source="Turkey" target="Israel">
+      <data key="d0">164</data>
+    </edge>
+    <edge source="Turkey" target="Group">
+      <data key="d0">3969</data>
+    </edge>
+    <edge source="Turkey" target="USA">
+      <data key="d0">200</data>
+    </edge>
+    <edge source="Turkey" target="Kurdistan">
+      <data key="d0">420</data>
+    </edge>
+    <edge source="Turkey" target="France">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Turkey" target="Armenia">
+      <data key="d0">526</data>
+    </edge>
+    <edge source="Turkey" target="Greece">
+      <data key="d0">5907</data>
+    </edge>
+    <edge source="Israel" target="Group">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Group" target="USA">
+      <data key="d0">94</data>
+    </edge>
+    <edge source="Group" target="Kurdistan">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="Group" target="Greece">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="USA" target="USA">
+      <data key="d0">90</data>
+    </edge>
+    <edge source="Armenia" target="Greece">
+      <data key="d0">90</data>
+    </edge>
+    <edge source="Greece" target="Greece">
+      <data key="d0">703</data>
+    </edge>
+  </graph>
+</graphml>

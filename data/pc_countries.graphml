@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Turkey" />
+    <node id="Group" />
+    <node id="USA" />
+    <node id="France" />
+    <node id="Italy" />
+    <node id="Israel" />
+    <node id="Iran" />
+    <node id="Germany" />
+    <node id="Armenia" />
+    <node id="Iraq" />
+    <node id="Spain" />
+    <node id="Moldova" />
+    <node id="Syria" />
+    <node id="Russia" />
+    <node id="Kurdistan" />
+    <node id="India" />
+    <node id="Azerbaijan" />
+    <node id="Tatar" />
+    <node id="UK" />
+    <node id="Greece" />
+    <node id="Arabia" />
+    <node id="Crimea" />
+    <edge source="Turkey" target="Turkey">
+      <data key="d0">19281</data>
+    </edge>
+    <edge source="Turkey" target="Italy">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Turkey" target="USA">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Turkey" target="France">
+      <data key="d0">41</data>
+    </edge>
+    <edge source="Turkey" target="Israel">
+      <data key="d0">325</data>
+    </edge>
+    <edge source="Turkey" target="Iran">
+      <data key="d0">103</data>
+    </edge>
+    <edge source="Turkey" target="Germany">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Turkey" target="Armenia">
+      <data key="d0">787</data>
+    </edge>
+    <edge source="Turkey" target="Iraq">
+      <data key="d0">49</data>
+    </edge>
+    <edge source="Turkey" target="Spain">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Turkey" target="Moldova">
+      <data key="d0">113</data>
+    </edge>
+    <edge source="Turkey" target="Syria">
+      <data key="d0">54</data>
+    </edge>
+    <edge source="Turkey" target="Russia">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Turkey" target="Kurdistan">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Turkey" target="India">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Turkey" target="Azerbaijan">
+      <data key="d0">29</data>
+    </edge>
+    <edge source="Turkey" target="Tatar">
+      <data key="d0">106</data>
+    </edge>
+    <edge source="Turkey" target="UK">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Turkey" target="Greece">
+      <data key="d0">550</data>
+    </edge>
+    <edge source="Turkey" target="Arabia">
+      <data key="d0">103</data>
+    </edge>
+    <edge source="Turkey" target="Crimea">
+      <data key="d0">106</data>
+    </edge>
+    <edge source="Group" target="Turkey">
+      <data key="d0">906</data>
+    </edge>
+    <edge source="Group" target="Syria">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Group" target="Israel">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Group" target="Iraq">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Group" target="Iran">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Group" target="UK">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Group" target="USA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Group" target="France">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Group" target="India">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Group" target="Azerbaijan">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Group" target="Moldova">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Group" target="Armenia">
+      <data key="d0">71</data>
+    </edge>
+    <edge source="Group" target="Greece">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="Group" target="Arabia">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Group" target="Crimea">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Group" target="Tatar">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="USA" target="Turkey">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="USA" target="USA">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="USA" target="Moldova">
+      <data key="d0">21</data>
+    </edge>
+    <edge source="USA" target="UK">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="USA" target="Greece">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="USA" target="France">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="France" target="Turkey">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Israel" target="Turkey">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Israel" target="Israel">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Israel" target="France">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Israel" target="Spain">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Israel" target="Greece">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Armenia" target="Turkey">
+      <data key="d0">61</data>
+    </edge>
+    <edge source="Armenia" target="Israel">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Armenia" target="Armenia">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Kurdistan" target="Turkey">
+      <data key="d0">27</data>
+    </edge>
+    <edge source="Kurdistan" target="Iran">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Greece" target="Turkey">
+      <data key="d0">285</data>
+    </edge>
+    <edge source="Greece" target="Israel">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Greece" target="Azerbaijan">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Greece" target="Moldova">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Greece" target="Armenia">
+      <data key="d0">37</data>
+    </edge>
+    <edge source="Greece" target="Greece">
+      <data key="d0">15</data>
+    </edge>
+  </graph>
+</graphml>
